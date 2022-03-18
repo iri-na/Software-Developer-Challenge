@@ -7,5 +7,5 @@
 
 # 🚀 Irina Carcamo's Software Developer Challenge!
 
-### This is a responsive Navbar that will change to a toggle drop-down if the screen width is less than 800px.
+### This website features a responsive Navbar that will change to a toggle drop-down if the screen width is less than 800px.
 ### Deployed here on Netlify: https://brave-mahavira-3b1411.netlify.app/
