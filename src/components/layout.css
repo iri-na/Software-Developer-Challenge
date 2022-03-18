@@ -578,7 +578,9 @@ pre tt:after {
 }
 
 /* Navbar */
-nav,
+nav {
+  overflow: auto;
+}
 .nav-header {
   display: flex;
   align-items: center;
@@ -616,7 +618,7 @@ nav,
 }
 .links-container {
   height: 0;
-  overflow: hidden;
+  overflow: auto;
   transition: all 0.3s linear;
 }
 .show-container {
